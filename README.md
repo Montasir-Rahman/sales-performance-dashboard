@@ -1,4 +1,4 @@
-# Excel Sales Performance & Profitability Dashboard
+# Sales Performance Dashboard
 
 ![Excel Dashboard Screenshot](superstore_sales.png) ## Overview
 
