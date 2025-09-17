@@ -1,8 +1,12 @@
 # Sales Performance Dashboard
 
-![Excel Dashboard Screenshot](superstore_sales.png) ## Overview
+## Overview
 
 This project is an end-to-end data analysis of a large superstore dataset, built entirely within Microsoft Excel. The goal was to transform nearly 10,000 rows of raw transactional data into an interactive and insightful dashboard. It serves as a practical demonstration of advanced Excel capabilities for data analysis, financial reporting, and business intelligence.
+
+---
+##Dashboard Preview
+![Excel Dashboard Screenshot](superstore_sales.png) 
 
 ---
 
